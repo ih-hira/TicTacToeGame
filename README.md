@@ -1,1 +1,1 @@
-# TicTacToeGame
+This is an online tic tac toe game which is created with HTML, CSS and JavaScript for educational purpose.
