@@ -1,0 +1,23 @@
+table,td{
+	border:3px solid  #16a085 ;
+	border-collapse: collapse;
+	padding:40px;
+}
+h1{
+	text-align:center;
+	margin-top:5%;
+}
+#p1{
+	float:left;
+	color:#C70039;
+	margin-left:25%;
+}
+#p2{
+	float:right;
+	color:#FFC300;
+	margin-right:25%;
+}
+#board{
+	margin-top:5%;
+	float:center;
+}
